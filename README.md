@@ -4,7 +4,8 @@
 Este repositorio contiene las plantillas correspondientes a los siguientes videos:
 
 - ¿Cómo estimar tiempos en desarrollo de software? ⏳💸 [Ver aquí](https://youtu.be/nrTedUJMuhI?si=DvHlXQ3W-i4Uqcxv)
-- ¿Cómo estimar COSTOS? [Ver aquí]()
+- ¿Cómo estimar COSTOS de un SISTEMA FINAL? [Ver aquí](https://youtu.be/VVsgEM7xlGY)
+- ¿Cómo estimar COSTOS de un SaaS (Software as a Service)? [Ver aquí](https://youtu.be/8mRim6BeXPA)
 
 ## ¿Cómo utilizar las plantillas?
 
